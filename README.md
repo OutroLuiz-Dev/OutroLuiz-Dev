@@ -1,4 +1,4 @@
-# Luiz Oliveira
+# Luiz Oliveira DEV
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Oliveira-blue?logo=linkedin)](https://www.linkedin.com/in/luizoliveiradev/)
 [![GitHub](https://img.shields.io/badge/GitHub-LuizOliveira-black?logo=github)](https://github.com/OutroLuizdev/OutroLuizdev)
